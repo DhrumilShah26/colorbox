@@ -70,7 +70,7 @@ class App extends React.Component {
           />
           <input type="submit" value="submit" />
         </form>
-        <div style={this.styles} />
+        <div style={this.styles} /> 
       </div>
     );
   }
